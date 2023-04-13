@@ -48,6 +48,8 @@ let promptList = [{name: "Adze", description: "A Vampiric Firefly from African M
 function random(prompts) {
     let n = Math.floor(Math.random() * (prompts.length))
     console.log(n)
+    console.log(prompts[n].name)
+    console.log(prompts[n].description)
     document.getElementById("prompt").innerHTML=prompts[n].name
     document.getElementById("description").innerHTML=prompts[n].description
 }
