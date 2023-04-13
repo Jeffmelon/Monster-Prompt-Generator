@@ -10,7 +10,7 @@ body {
 }
 
 div {
-    Width: 100%; 
+    Width: 80%; 
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -18,6 +18,11 @@ div {
 
 #prompt {
     color: rgb(62, 7, 121);
+}
+
+#description {
+    width: 80%;
+    height: 10vh;
 }
 
 h1 {
