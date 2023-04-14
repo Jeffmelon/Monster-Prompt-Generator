@@ -3,7 +3,7 @@ body {
     background-color: rgb(206, 128, 255);
     Width: 100%;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     font-family: 'Roboto', sans-serif;
