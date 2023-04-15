@@ -10,7 +10,7 @@ body {
 }
 
 div {
-    Width: 80%; 
+    Width: 90%; 
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
