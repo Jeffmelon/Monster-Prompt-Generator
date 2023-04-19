@@ -10,7 +10,7 @@ body {
 }
 
 div {
-    Width: 90%; 
+    width: 80%;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -22,8 +22,10 @@ div {
 }
 
 #description {
-    width: 80%;
-    height: 10vh;
+    height: 5vh;
+    font-size: 3vh;
+    text-align: center;
+    justify-content: center;
 }
 
 h1 {
@@ -37,6 +39,15 @@ h1 {
 p {
     font-size: 20px;
     Width: 100%; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.light {
+    padding: 3vh 0vh;
+    margin: 1vh 0vh;
+    background-color: rgb(209, 183, 225);
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
