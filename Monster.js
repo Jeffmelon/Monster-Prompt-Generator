@@ -280,7 +280,7 @@ let promptList = [{name: "Adze", description: "A Vampiric Firefly from African M
     {name: "Stingy Jack", description: "A drunk who managed to trick the devil and made him promise not to send him to hell. However when he died, he was unable to go to heaven and hell. He was forced to wander the the earth as a spirit carrying a lantern carved plant like a turnip or pumpkin"},
     {name: "Succubus/Incubus", description: ""},
     {name: "Sugar Fiend", description: ""},
-    {name: "Sugar skull", description: ""},
+    {name: "Sugar Skull", description: ""},
     {name: "Swamp Monster", description: ""},
     {name: "Swarm", description: ""},
     // {name: "", description: ""},
